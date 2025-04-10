@@ -9,3 +9,4 @@ tf2onnx>=1.15.0
 onnxruntime>=1.15.0
 matplotlib>=3.7.0
 huggingface_hub
+shap
